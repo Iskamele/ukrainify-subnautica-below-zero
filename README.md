@@ -6,6 +6,8 @@
 
 [Subnautica: Below Zero у Steam](https://store.steampowered.com/app/848450/Subnautica_Below_Zero/)
 
+Новини проєкту — у каналі [Vocal Games](https://t.me/VocalGames), обговорення — у спільноті [t.me/vopvg](https://t.me/vopvg).
+
 ## Про проєкт
 
 Ми робимо повне українське озвучення Subnautica: Below Zero: усі сюжетні репліки, записи КПК, дзвінки й кат-сцени.
