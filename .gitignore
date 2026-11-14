@@ -1,0 +1,31 @@
+# --- game files and everything extracted from them: never commit ------------
+# out/ holds the copy of the game, decompiled code, audio (FSB/WAV), texts in
+# all languages, textures and the tables built from them (~25 GB).
+# It belongs to Unknown Worlds and is rebuilt locally from your own copy.
+out/
+*.bank
+*.fsb
+*.wav
+*.assets
+*.bundle
+*.resS
+
+# --- private part: kept in a separate private repository --------------------
+# translation/ links to ../Ukrainify-Private/subnautica-below-zero
+# (tools, notes, Ukrainian texts, glossary, casting, redrawn art). The tools
+# move here once they are ready to be published.
+/translation
+
+# --- third-party tools and the Python venv -----------------------------------
+tools/
+
+# --- tooling -----------------------------------------------------------------
+.idea/
+*.iml
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- upload/: copy of out/ for the team drive (game files, private) ---------
+upload/
